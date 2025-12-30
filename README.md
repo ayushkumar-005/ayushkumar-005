@@ -34,8 +34,9 @@ Aspiring Full Stack Developer with a focus on building scalable web applications
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Crypto-Dashboard](https://github.com/ayushkumar-005/Crypto-Dashboard)** | A real-time cryptocurrency tracking dashboard. | React, Tailwind, API |
+| **[RelayChat](https://github.com/ayushkumar-005/RelayChat)** | A full-stack real-time messaging platform. | React, Node.js, MongoDB, and Socket.io |
 | **[OpenStudyGuide](https://github.com/ayushkumar-005/OpenStudyGuide)** | An open-source study resource and guide. | JavaScript, HTML/CSS |
+| **[Crypto-Dashboard](https://github.com/ayushkumar-005/Crypto-Dashboard)** | A real-time cryptocurrency tracking dashboard. | React, Tailwind, API |
 | **[The-Sopranos-API](https://github.com/ayushkumar-005/The-Sopranos-API)** | A RESTful API serving data about *The Sopranos* characters. | Node.js, Express |
 | **[MediaBrowserX](https://github.com/ayushkumar-005/MediaBrowserX)** | A lightweight media browsing app. | Vanilla JS, HTML, CSS |
 | **[CryptoLocal](https://github.com/ayushkumar-005/CryptoLocal)** | A desktop GUI utility for tracking crypto prices. | Python, Tkinter |

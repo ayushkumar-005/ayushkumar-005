@@ -1,6 +1,8 @@
 # Hello there, I'm Ayush! 👋
 
-Aspiring Full Stack Developer with a focus on building scalable web applications. Beyond standard development, I am a Computer Science enthusiast who likes to explore diverse domains through hands-on hobby projects. Adaptable and growth-oriented, I am always eager to embrace new technologies and tackle complex challenges.
+Aspiring Full Stack Developer with a focus on building scalable web applications and leveraging AI/LLM tools to the best of my ability. Beyond standard development, I am a Computer Science enthusiast who likes to explore diverse domains through hands-on hobby projects and also keep tab on what's going on in our ever-changing world of development. Adaptable and growth-oriented, I am always eager to embrace new technologies and tackle complex challenges (no kidding)!
+
+🌐 Portfolio: **[ayushkumar.dev](https://www.ayushkumar.dev/)**
 
 ### 🛠️ Languages and Tools
 
@@ -35,11 +37,10 @@ Aspiring Full Stack Developer with a focus on building scalable web applications
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[RelayChat](https://github.com/ayushkumar-005/RelayChat)** | A full-stack real-time messaging platform. | React, Node.js, MongoDB, and Socket.io |
-| **[OpenStudyGuide](https://github.com/ayushkumar-005/OpenStudyGuide)** | An open-source study resource and guide. | JavaScript, HTML/CSS |
-| **[Crypto-Dashboard](https://github.com/ayushkumar-005/Crypto-Dashboard)** | A real-time cryptocurrency tracking dashboard. | React, Tailwind, API |
+| **[OpenStudyGuide](https://github.com/ayushkumar-005/OpenStudyGuide)** | An open-source study resource and guide. | HTML, TailwindCSS, JavaScript, Gemini API |
+| **[Youtube-Insight](https://github.com/ayushkumar-005/Youtube-Insight)** | AI-Powered bot for fetching YT summaries & research. | Python, OpenClaw, GLM-5 |
 | **[The-Sopranos-API](https://github.com/ayushkumar-005/The-Sopranos-API)** | A RESTful API serving data about *The Sopranos* characters. | Node.js, Express |
-| **[MediaBrowserX](https://github.com/ayushkumar-005/MediaBrowserX)** | A lightweight media browsing app. | Vanilla JS, HTML, CSS |
-| **[CryptoLocal](https://github.com/ayushkumar-005/CryptoLocal)** | A desktop GUI utility for tracking crypto prices. | Python, Tkinter |
+| **[MediaBrowserX](https://github.com/ayushkumar-005/MediaBrowserX)** | A lightweight media browsing app. | JavaScript, HTML, CSS, Vercel |
 
 ### 📫 Connect with Me
 

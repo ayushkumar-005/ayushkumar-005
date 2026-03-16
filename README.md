@@ -39,7 +39,7 @@ Aspiring Full Stack Developer with a focus on building scalable web applications
 | **[RelayChat](https://github.com/ayushkumar-005/RelayChat)** | A full-stack real-time messaging platform. | React, Node.js, MongoDB, and Socket.io |
 | **[OpenStudyGuide](https://github.com/ayushkumar-005/OpenStudyGuide)** | An open-source study resource and guide. | HTML, TailwindCSS, JavaScript, Gemini API |
 | **[Youtube-Insight](https://github.com/ayushkumar-005/Youtube-Insight)** | AI-Powered bot for fetching YT summaries & research. | Python, OpenClaw, GLM-5 |
-| **[The-Sopranos-API](https://github.com/ayushkumar-005/The-Sopranos-API)** | A RESTful API serving data about *The Sopranos* characters. | Node.js, Express |
+| **[The-Sopranos-API](https://github.com/ayushkumar-005/The-Sopranos-API)** | A RESTful API serving data about *The Sopranos* characters. | Node.js, Express, MongoDB |
 | **[MediaBrowserX](https://github.com/ayushkumar-005/MediaBrowserX)** | A lightweight media browsing app. | JavaScript, HTML, CSS, Vercel |
 
 ### 📫 Connect with Me
